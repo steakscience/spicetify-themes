@@ -12,3 +12,11 @@
 #view-leaderboard-ad {
   display: none !important;
 }
+
+.ConnectPopup__devices-image {
+  display: none;
+}
+
+ConnectPopup__button > button span {
+  color: white;
+}
